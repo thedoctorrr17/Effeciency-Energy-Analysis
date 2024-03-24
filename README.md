@@ -1,6 +1,12 @@
 # Effeciency-Energy-Analysis
 
 ## Latar belakang
+Efisiensi energi merupakan topik yang terus dibahas di era modern. Meningkatnya konsumsi energi membuat sumber energi semakin berkurang. Dengan permasalahan itu, diperlukan solusi untuk mengatasi keterbatasan sumber energi. Salah satu cara untuk mengatasi hal tersebut adalah dengan menghemat energi dari skala terkecil. Efisiensi energi Efisiensi energi bukan hanya tentang penghematan energi, tetapi juga tentang penggunaan energi yang lebih cerdas dan bertanggung jawab. Hal ini dapat dicapai dengan berbagai cara, seperti mengubah perilaku, menggunakan teknologi yang lebih efisien, dan meningkatkan kesadaran.
+
+## Problem Statements
+* Menganalisis Faktor-Faktor yang Mempengaruhi Beban Pemanasan dan Pendinginan
+* 
+
   
 
 ## Data Understanding
