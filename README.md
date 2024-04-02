@@ -32,5 +32,18 @@ Analisis Univariat
 
 Analisis Univariat merupakan bentuk analisis data yang hanya merepresentasikan informasi yang terdapat pada satu variabel. Jenis visualisasi ini umumnya digunakan untuk memberikan gambaran terkait distribusi sebuah variabel dalam suatu dataset. Berikut adalah visualisasi EDA dari Analisis Univariate dari data NUMERIK
 
-![image](https://github.com/thedoctorrr17/Effeciency-Energy-Analysis/assets/143855919/eeeeb09e-7c52-466b-8f20-19141b175287)
+![image](https://github.com/thedoctorrr17/Effeciency-Energy-Analysis/assets/143855919/2226ed58-45eb-4034-9dd8-8b8f6ef94e77)
+Gambar 1. Analisis Univariate
+
+Berdasarkan data diatas, didapatkan
+
+Luas permukaan bangunan paling luas dengan ukuran 808.5 meter persegi
+Luas dinding bangunan berkisar antara 214 hingga 416,5 meter persegi
+Tinggi atap paling tinggi adalah 7 meter
+Rasio volume bangunan berkisar antara 0,62 hingga 0,98
+
+
+
+
+
 
