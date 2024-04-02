@@ -23,4 +23,14 @@ Efisiensi energi merupakan topik yang terus dibahas di era modern. Meningkatnya 
 * Glazing Area - 0%, 10%, 25%, 40% (of floor area): This is the total glazing area of the building, expressed as a percentage of the floor area. 
 * Glazing Area Distribution (Variance) - 1:Uniform, 2:North, 3:East, 4:South, 5:West: This is the distribution of glazing area across the building. The values 1, 2, 3, 4, and 5 represent a uniform distribution and North, East, South, and West distributions, respectively.
 * Heating Load - kWh/m²: This is the heating load of the building, expressed in kilowatt-hours per square meter. 
-* Cooling Load - kWh/m²: This is the cooling load of the building, expressed in kilowatt-hours per square meter. 
+* Cooling Load - kWh/m²: This is the cooling load of the building, expressed in kilowatt-hours per square meter.
+
+## Exploratory Data Analysis (EDA)
+Untuk memahami data lebih lanjut, dilakukan Analisis Univariat, Analisis Bivariate dan Analisis Multivariat, serta Visualisasi Data melalui EDA. EDA/Exploratory Data Analysis adalah proses analisis data yang digunakan untuk menjelajahi, memahami, dan meringkas karakteristik dasar dari dataset secara visual dan deskriptif. Tujuan utama dari EDA adalah untuk memahami struktur dataset, menemukan pola atau tren yang menarik, serta mempersiapkan data untuk tahap analisis yang lebih lanjut.
+
+Analisis Univariat
+
+Analisis Univariat merupakan bentuk analisis data yang hanya merepresentasikan informasi yang terdapat pada satu variabel. Jenis visualisasi ini umumnya digunakan untuk memberikan gambaran terkait distribusi sebuah variabel dalam suatu dataset. Berikut adalah visualisasi EDA dari Analisis Univariate dari data NUMERIK
+
+![image](https://github.com/thedoctorrr17/Effeciency-Energy-Analysis/assets/143855919/eeeeb09e-7c52-466b-8f20-19141b175287)
+
